@@ -8,10 +8,10 @@
 		<version>3.4.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bookmyshow</groupId>
-	<artifactId>Book-my-show</artifactId>
+	<groupId>com.bookmyshow-mail</groupId>
+	<artifactId>book-my-show-mail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Book-my-show</name>
+	<name>book-my-show-mail</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
